@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"052a9786f0679d3def250880607fefc3","lockfileHash":"775a98ab0a419dc7381e8b7ce0ba1bb3","guessedImports":["sequelize","express","body-parser","react","react-dom","http-proxy-middleware"],"guessedImportsHash":"0d01e4700679dfc1e6c749323ec1fc59"}}}

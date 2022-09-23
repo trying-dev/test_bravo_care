@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "candidate",
+    "password": "2pfGmad7dbd4",
+    "database": "postgres",
+    "host": "interview-db.cqiygbgbzecv.us-west-1.rds.amazonaws.com",
+    "dialect": "postgres",
+    "seederStorage": "sequelize",
+    "operatorsAliases": "Sequelize.Op",
+    "logging": false
+  }
+}

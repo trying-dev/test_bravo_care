@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.question-box {
+  min-height: 250px;
+  border: solid 1px black;
+  padding: 0px 10px;
+  margin-bottom: 10px
+}
+
+
+.nurse-options {
+  display: flex;
+  gap: 1rem;
+
+  margin-top: 1rem;
+}
+
+.nurse-options div {
+  display: flex;
+  border: 1px solid black;
+  padding: 1rem 1.5rem;
+}
